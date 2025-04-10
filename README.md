@@ -1,7 +1,6 @@
 # Overview
 ## Kotlin
-
-
+*"Kotlin is a modern but already mature programming language designed to make developers happier. It's concise, safe, interoperable with Java and other languages, and provides many ways to reuse code between multiple platforms for productive programming."*[Kotlin official webpage](https://youtu.be/F2ic9i4Tg24)
 
 ## About this Project
 When you want to learn a new programming language, and already have a strong fundation in OOP, surely you already know that the first basic programming skills you need to learn include: how to print strings, declare variables, define functions, use loop structures and if-else sentences, all these before get started with classes, etc. And only after you know all the basic programming skills you are ready to go further.
